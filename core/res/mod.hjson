@@ -1,12 +1,12 @@
-main:
-name:
-displayName:
-author:
-repo:
-subtitle:
-description:
-version:
-minGameVersion:
-java:
-hidden:
-hideBrowser:
+main: nekit508.mindustryinfantrymod.core.MIMCore
+name: mindustry-infantry-mod
+displayName: Mindustry infantry mod
+author: nekit508
+repo: https://github.com/nekit508/mindustry-infantry-mod
+subtitle: no subtitle
+description: no description
+version: 1.0dev
+minGameVersion: 145
+java: true
+hidden: false
+hideBrowser: true

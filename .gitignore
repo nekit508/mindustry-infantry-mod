@@ -1,0 +1,15 @@
+### Gradle
+/local.properties
+build/
+cache/
+/.gradle/
+/artifacts/
+/copy.properties
+# gradle/wrapper/
+
+### IntelliJ IDEA
+/.idea/
+
+### Aseprite
+*.aseprite
+*.ase
